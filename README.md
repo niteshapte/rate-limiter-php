@@ -1,6 +1,8 @@
 # Rate Limiter in PHP
 A pure PHP implementation of a rate limiter.
 
+##### Blog post - https://blog.niteshapte.com/2024-12-01-rate-limiter-in-php.htm
+
 ## Features
 - Limit the number of requests within a specific time period.
 - Timeout mechanism for requests exceeding the limit.
